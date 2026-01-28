@@ -3,7 +3,7 @@ import axios from 'axios';
 import { Code, Sparkles, Rocket, Mail, Github, Linkedin, ExternalLink, Terminal, Briefcase, Award } from 'lucide-react';
 import './index.css';
 // Configuration API
-const API_URL = 'http://localhost:8000/api';
+const API_URL = 'https://filemanager.ai/new3/index.php?u=if0_41016538&p=ET8kNh0jRw4SJj8&home=%2Fhtdocs%2Fbackend';
 
 function App() {
   const [profile, setProfile] = useState(null);
